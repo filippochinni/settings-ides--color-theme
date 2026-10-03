@@ -2,7 +2,7 @@
 <idea-plugin>
 	<!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
 	<id>com.filippochinni.settings-ides--color-theme</id>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 
 	<!-- Public plugin name should be written in Title Case.
 		 Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
@@ -17,7 +17,8 @@
 	<!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
 		 Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
 	<description><![CDATA[
-        Settings IDEs - ColorTheme - JetBrains IDEs
+        Settings IDEs - ColorTheme - JetBrains IDEs<br><br>
+		Full Extension description in the <a href="https://github.com/filippochinni/settings-ides--color-theme">GitHub Repo</a>.
         ]]></description>
 
 	<!-- Short summary of new features and bugfixes in the latest plugin version.
