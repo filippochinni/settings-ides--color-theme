@@ -1,0 +1,29 @@
+{
+	"name": "settings-ides--color-theme",
+	"displayName": "Settings IDEs - ColorTheme",
+	"description": "Settings IDEs - Color Theme - VS Code",
+	"publisher": "filippochinni",
+	"version": "1.0.4",
+	"engines": {
+		"vscode": "^1.140.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Settings IDEs",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Settings IDEs-color-theme.json"
+			}
+		]
+	},
+	"icon": "./_shared/icon.png",
+	"repository": {
+		"url": "https://github.com/filippochinni/settings-ides--color-theme.git"
+	},
+	"scripts": {
+		"vscode:prepublish": "sh ../_scripts/sync-shared.sh"
+	}
+}
