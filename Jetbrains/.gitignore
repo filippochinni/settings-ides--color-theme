@@ -2,3 +2,6 @@ _shared/
 README.md
 LICENSE.md
 CHANGELOG.md
+
+out
+*.jar
