@@ -3,7 +3,7 @@
 	"displayName": "Settings IDEs - ColorTheme",
 	"description": "Settings IDEs - Color Theme - VS Code",
 	"publisher": "filippochinni",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"engines": {
 		"vscode": "^1.125.0"
 	},

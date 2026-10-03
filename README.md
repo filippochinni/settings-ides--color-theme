@@ -1,6 +1,8 @@
 # Settings IDEs - Color Theme
 
-Settings IDEs - Color Theme is an IDE extension that provides a custom, handmade color theme for the syntax highlighting of the IDE. Currently available for Visual Studio Code and JetBrains IDEs.
+Settings IDEs - Color Theme is an IDE extension from the "Settings IDEs" Series. It provides a custom, handmade color theme for the syntax highlighting of the IDE.
+
+Currently available for Visual Studio Code and JetBrains IDEs.
 
 Each color has been carefully handpicked to build something which satisfies the 3 main necessities of a good dark color theme: **Visual Appeal**, **Readability**, **Eye-Comfort**.
 
@@ -73,7 +75,7 @@ The theme only affects the editor of the IDE. In VS Code, the theme uses VS Code
 
 
 
-## Check out more from the Setting IDE Series
+## Check out more from the Settings IDEs Series
 
 - **Settings IDEs - Keymap** --> [GitHub](https://github.com/filippochinni/settings-ides--keymap) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--keymap)
 

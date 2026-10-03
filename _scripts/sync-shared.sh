@@ -6,7 +6,6 @@ ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 TARGET="$(cd "${1:-$PWD}" && pwd)"
 
 if [ "$TARGET" = "$ROOT" ]; then
-  echo "Errore: il target non può essere la root del repo" >&2
   exit 1
 fi
 
