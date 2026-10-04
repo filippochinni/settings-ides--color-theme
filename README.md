@@ -75,13 +75,16 @@ The theme only affects the editor of the IDE. In VS Code, the theme uses VS Code
 
 
 
-## Check out more from the Settings IDEs Series
+## Check out the Settings IDEs Series
+
+- **Settings IDEs - ColorTheme** --> [GitHub](https://github.com/filippochinni/settings-ides--color-theme) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--color-theme) | [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/34753-settings-ides--colortheme)
 
 - **Settings IDEs - Keymap** --> [GitHub](https://github.com/filippochinni/settings-ides--keymap) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--keymap) | [Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/34754-settings-ides--keymap)
 
 My VS Code Marketplace Profile: [Visual Studio Marketplace Publishers](https://marketplace.visualstudio.com/publishers/filippochinni)
 
 My Jetbrains Marketplace Profile: [Jetbrains Marketplace](https://plugins.jetbrains.com/vendor/filippochinni)
+
 
 
 <!-- <a href="https://www.flaticon.com/free-icons/source-code" title="source code icons">Source code icons created by Prosymbols Premium - Flaticon</a> -->
